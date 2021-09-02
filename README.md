@@ -4,8 +4,6 @@
 
 Корректная программа:
 ![scr1](https://github.com/ziyadovea/recursive-descent/blob/main/scr1.png)
-img[alt=scr1] { width: 200px; }
 
 Некорректная программа:
 ![scr2](https://github.com/ziyadovea/recursive-descent/blob/main/scr2.png)
-img[alt=scr2] { width: 200px; }
